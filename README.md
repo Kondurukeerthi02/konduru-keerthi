@@ -1,8 +1,8 @@
 # konduru-keerthi
 <h1 align="center">Hi 👋, I'm Konduru keerthi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Iam a fresher</h3>
 
-- 🌱 I’m currently learning *Java html css linux*
+- 🌱 I’m currently learning *Java html css linux,mysql*
 
 - 📫 How to reach me *keerthikonduru26@gmail.com*
 
